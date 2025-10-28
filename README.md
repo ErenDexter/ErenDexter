@@ -19,11 +19,13 @@ I am a research-enthusiast and full-stack software developer, with a passion for
 
 ## Skills & Technologies
 
-* **Languages:** Python, JavaScript, MATLAB, C++ (depending on project)
-* **Machine Learning / Deep Learning:** CNNs, optimization algorithms, genetic algorithms
-* **Control Systems:** Synergetic Controllers, ISMC, non-linear system design
-* **Software Engineering:** Git/GitHub workflows, Jupyter Notebooks, web apps, embedded development
-* **Research & Data:** Experimental design, algorithm development, scientific documentation
+* **Programming Languages**: JavaScript, Typescript, Python, C, C++, Java
+* **Machine Learning & Neural Networks**: TensorFlow, PyTorch, NeuralProphet, Darts, Transformers, Scikit-learn, Numpy, Pandas
+* **Web Development**:
+  * **Frontend**: React, NextJS, Svelte, SvelteKit, HTML5, TailwindCSS, Bootstrap
+  * **Backend**: Django, NodeJS, ExpressJS, Spring Boot, Firebase, REST API
+* **Robotics**: Robot Operating System - ROS, Arduino UNO, Raspberry Pi
+* **Software**: ArcGIS Pro, AutoCAD, MATLAB, SPSS, Adobe Illustrator & Photoshop
 
 ## Get in Touch
 
