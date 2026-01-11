@@ -23,7 +23,7 @@ I am a research-enthusiast and full-stack software developer, with a passion for
 * **Machine Learning & Neural Networks**: TensorFlow, PyTorch, NeuralProphet, Darts, Transformers, Scikit-learn, Numpy, Pandas
 * **Web Development**:
   * **Frontend**: React, NextJS, Svelte, SvelteKit, HTML5, TailwindCSS, Bootstrap
-  * **Backend**: Django, Fast API, NodeJS, ExpressJS, Spring Boot, Firebase, REST API
+  * **Backend**: Django, FastAPI, NodeJS, ExpressJS, Spring Boot, Firebase, REST API
 * **Robotics**: Robot Operating System - ROS, Arduino UNO, Raspberry Pi
 * **Software**: ArcGIS Pro, AutoCAD, MATLAB, SPSS, Adobe Illustrator & Photoshop
 
