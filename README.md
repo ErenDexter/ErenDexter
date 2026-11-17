@@ -1,5 +1,5 @@
 
-# Hi there 👋, I’m **Ranat Das Prangon**
+# Hi there 👋, I’m **Ranat!**
 
 *“We ignore the public understanding of science at our own peril”*
 
